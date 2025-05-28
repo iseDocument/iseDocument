@@ -65,7 +65,7 @@
 
 
 ### 1.下载安装包
-从**[下载版本选择地址](https://github.com/ollama/ollama/releases "标题")**中选择你需要的ollama版本，本人使用0.7.0，在assets处下载压缩包。
+从[下载版本选择地址](https://github.com/ollama/ollama/releases "标题")中选择你需要的ollama版本，本人使用0.7.0，在assets处下载压缩包。
 **此处需注意**：在cmd窗口中查看服务器CPU的型号
 
 
@@ -79,7 +79,7 @@ x86_64 CPU选择下载文件ollama-linux-amd64.tgz，arm架构CPU选择下载oll
 ### 2.解压
 >>>>>>>>>>>>>>>>>
  
-将**[安装脚本](https://github.com/ollama/ollama/blob/main/scripts/install.sh "标题")**放到和tgz压缩包同一个路径下，并且执行命令解压安装包
+将[安装脚本](https://github.com/ollama/ollama/blob/main/scripts/install.sh "标题")放到和tgz压缩包同一个路径下，并且执行命令解压安装包
 
 
 ```bash
