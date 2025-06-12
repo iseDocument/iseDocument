@@ -8,4 +8,4 @@ Machine Learning
     :titlesonly:
     :glob:
 
-    *.md
+    *
