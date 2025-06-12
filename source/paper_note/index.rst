@@ -3,7 +3,7 @@
 
 按主题分类的论文总结和笔记。
 
-最后更新：2025-06-12 22:17:32
+最后更新：2025-06-12 22:37:01
 
 主题导航
 ----------------
@@ -11,4 +11,5 @@
 .. toctree::
    :titlesonly:
 
+   software_engineering/index
    test_generation/index
