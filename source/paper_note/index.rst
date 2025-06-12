@@ -11,5 +11,4 @@
 .. toctree::
    :titlesonly:
 
-   software_engineering/index
-   test_generation/index
+   
