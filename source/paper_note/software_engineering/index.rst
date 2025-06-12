@@ -8,4 +8,4 @@ Software Engineering
     :titlesonly:
     :glob:
 
-    *.md
+    *
